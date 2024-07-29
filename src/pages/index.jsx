@@ -35,7 +35,7 @@ export default function Home() {
         className="flex items-center justify-center min-h-screen"
       >
         <div className="text-center bg-neutral-800 p-10 rounded-lg">
-        <img src="/darklogo.png" alt="CTFGuide Logo" width={100} className='mx-auto' />
+        <img src="./darklogo.png" alt="CTFGuide Logo" width={100} className='mx-auto' />
 
         <h1 className='text-white text-3xl font-semibold'>Platform Maintenance</h1>
           <h1 className="mb-2 text-2xl  text-white">
