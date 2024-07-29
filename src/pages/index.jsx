@@ -45,7 +45,7 @@ export default function Home() {
             We will be back at July 31st 11:59 PM EST.
           </p>
           <br></br>
-          <button className='bg-blue-600 text-white px-10 py-2 rounded-lg'>Join the Discord</button>
+          <button href="https://discord.gg/bH6gu3HCFF" className='bg-blue-600 text-white px-10 py-2 rounded-lg'>Join the Discord</button>
    
       <p className='mt-4 text-white text-sm mt-10'>&copy; CTFGuide Corporation 2024</p>
         </div>
