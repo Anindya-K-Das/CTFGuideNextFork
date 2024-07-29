@@ -1,4 +1,3 @@
-import 'focus-visible';
 import '@/styles/tailwind.css';
 
 
